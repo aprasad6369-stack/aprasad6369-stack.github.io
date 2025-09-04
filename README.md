@@ -8,7 +8,7 @@ Source: *Google Public Data.*
 
 Website:[website link](https://datacommons.org)
 
-Data commnans is a google intiative. It is a platform that aggregates and organizes vast amounts of public data, making it easily accessible and explorable. Users can search for topics of interest, such as energy or CO2 emissions, and find relevant data, visualizations, and insights.
+Data commans is a google initiative. It is a platform that aggregates and organizes vast amounts of public data, making it easily accessible and explorable. Users can search for topics of interest, such as energy or CO2 emissions, and find relevant data, visualizations, and insights.
 It provides various topics to explore, with highlighted topics that make it easy for users to access the information they need.
 
 # Topics to Explore
@@ -31,7 +31,7 @@ It provides various topics to explore, with highlighted topics that make it easy
 
 -> Scatter Plot Explorer
 
--> Time lines Explorer
+-> Timelines Explorer
 
 -> Data Download Tool
 
